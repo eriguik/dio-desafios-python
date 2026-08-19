@@ -9,6 +9,7 @@ Cada desafio fica isolado em sua própria pasta, com solução e testes unitári
 | # | Desafio | Pasta |
 |---|---------|-------|
 | 01 | Par ou Ímpar | [`01-par-impar/`](./01-par-impar) |
+| 02 | Ano Bissexto | [`02-ano-bissexto/`](./02-ano-bissexto) |
 
 ## ▶️ Como rodar um desafio
 
