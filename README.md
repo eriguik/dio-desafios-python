@@ -13,6 +13,7 @@ Cada desafio fica isolado em sua própria pasta, com solução e testes unitári
 | 03 | Conta Vogais | [`03-conta-vogais/`](./03-conta-vogais) |
 | 04 | Soma de Tupla | [`04-soma-tupla/`](./04-soma-tupla) |
 | 05 | Elementos Comuns | [`05-elementos-comuns/`](./05-elementos-comuns) |
+| 06 | Contar Caracteres | [`06-contar-caracteres/`](./06-contar-caracteres) |
 
 ## ▶️ Como rodar um desafio
 
