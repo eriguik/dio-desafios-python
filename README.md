@@ -11,6 +11,7 @@ Cada desafio fica isolado em sua própria pasta, com solução e testes unitári
 | 01 | Par ou Ímpar | [`01-par-impar/`](./01-par-impar) |
 | 02 | Ano Bissexto | [`02-ano-bissexto/`](./02-ano-bissexto) |
 | 03 | Conta Vogais | [`03-conta-vogais/`](./03-conta-vogais) |
+| 04 | Soma de Tupla | [`04-soma-tupla/`](./04-soma-tupla) |
 
 ## ▶️ Como rodar um desafio
 
