@@ -29,3 +29,7 @@ cd NN-nome-do-desafio
 pip install pytest
 pytest
 ```
+
+---
+
+Feito por [Erik Trindade Duarte](https://github.com/eriguik) durante a trilha Python da [DIO](https://www.dio.me/).
