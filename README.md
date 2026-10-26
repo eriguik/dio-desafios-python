@@ -14,6 +14,7 @@ Cada desafio fica isolado em sua própria pasta, com solução e testes unitári
 | 04 | Soma de Tupla | [`04-soma-tupla/`](./04-soma-tupla) |
 | 05 | Elementos Comuns | [`05-elementos-comuns/`](./05-elementos-comuns) |
 | 06 | Contar Caracteres | [`06-contar-caracteres/`](./06-contar-caracteres) |
+| 07 | Calculadora (POO) | [`07-calculadora/`](./07-calculadora) |
 
 ## ▶️ Como rodar um desafio
 
