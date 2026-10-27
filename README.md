@@ -15,6 +15,7 @@ Cada desafio fica isolado em sua própria pasta, com solução e testes unitári
 | 05 | Elementos Comuns | [`05-elementos-comuns/`](./05-elementos-comuns) |
 | 06 | Contar Caracteres | [`06-contar-caracteres/`](./06-contar-caracteres) |
 | 07 | Calculadora (POO) | [`07-calculadora/`](./07-calculadora) |
+| 08 | Classe Pessoa (POO) | [`08-pessoa/`](./08-pessoa) |
 
 ## ▶️ Como rodar um desafio
 
