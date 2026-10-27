@@ -16,6 +16,7 @@ Cada desafio fica isolado em sua própria pasta, com solução e testes unitári
 | 06 | Contar Caracteres | [`06-contar-caracteres/`](./06-contar-caracteres) |
 | 07 | Calculadora (POO) | [`07-calculadora/`](./07-calculadora) |
 | 08 | Classe Pessoa (POO) | [`08-pessoa/`](./08-pessoa) |
+| 09 | Conversor de Temperatura (POO) | [`09-conversor-temperatura/`](./09-conversor-temperatura) |
 
 ## ▶️ Como rodar um desafio
 
